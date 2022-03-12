@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho como Assistente Administrativo (Desenvolvedor Web)
 - 🌱 Estudando ReactNative
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/Talesantos">
